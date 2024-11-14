@@ -1,0 +1,20 @@
+{
+    "colorData": [
+        {
+            "bgColor": "Red",
+            "textColor": "White"
+        },
+        {
+            "bgColor": "White",
+            "textColor": "Black"
+        },
+        {
+            "bgColor": "Blue",
+            "textColor": "White"
+        },
+        {
+            "bgColor": "Teal",
+            "textColor": "White"
+        }
+    ]
+}
